@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Informatics, University of Utah, 2029 (expected)
+* M.S. Biomedical Informatics, University of Utah, 2024
+* M.Sc. in Bioinformatics and Biotechnology, Savitribai Phule Pune University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2022 - Present: Graduate Research Assistant
+  * Biomedical Informatics, University of Utah
+  * Duties included: Project Coordinatoor for [PCORnet RECOVER](https://recovercovid.org/)
+  * Supervisor: [Mollie Cummins](https://faculty.utah.edu/u0444127-Mollie_R._Cummins,_PhD,_RN,_FAAN,_FACMI/hm/index.hml), [Ramkiran Gouripeddi](https://medicine.utah.edu/faculty/ramkiran-gouripeddi)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* November 2020 - June 2022: Software Engineer
+  * Automation Teknix
+  * Duties included: Developed an Android application using machine learning to detect missing car engine components during manufacturing. Built a pipeline to upload images to a database via IP addresses for reference.
+  * Supervisor: Sandeep 
+   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Java
+* SQL 
 
 Publications
 ======
@@ -55,9 +47,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* August 2023 - May 2024: Graduate Teaching Assistant
+  * University of Utah
+  * Duties included: Instructed courses [BMI 6018](https://class-schedule.app.utah.edu/main/1248/description.html?subj=BMI&catno=6018&section=001) and BMI [6016](https://class-tools.app.utah.edu/syllabus/1254/10101/BMI6016_2025S.pdf), and conducted TA office hours 
+  * Supervisor: [Ramkiran Gouripeddi](https://medicine.utah.edu/faculty/ramkiran-gouripeddi)
   
 Service and leadership
 ======
