@@ -14,7 +14,7 @@ name                     : &name "Sukrut Shishupal"
 description              : &description "personal description"
 url                      : https://sukrut.shishupal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sukrut-shishupal/sukrut.shishupal.github.io"
+repository               : "sukrut.shishupal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/sukrut-shishupal"
+  github           : "sukrut-shishupal"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/sukrut_captures/"
+  instagram        : "sukrut_captures/"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/sukrutshishupal/"
+  linkedin         : "sukrutshishupal/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
