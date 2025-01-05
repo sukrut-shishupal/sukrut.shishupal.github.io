@@ -21,7 +21,7 @@ repository               : "sukrut-shishupal/sukrut.shishupal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile2.jpg"
   name             : "Sukrut Shishupal"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @University of Utah"
