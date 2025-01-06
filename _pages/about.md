@@ -14,4 +14,4 @@ I am committed to exploring innovative solutions that can address complex real-w
 
 My journey is driven by a curiosity to understand and harness technology's power to make a meaningful impact on society.
 
-Here is my [[cv]](http://sukrut-shishupal/sukrut.shishupal.github.io/files/Resume_Sukrut_Shishupal.pdf).
+Here is my [[cv]](/files/Resume_Sukrut_Shishupal.pdf).
