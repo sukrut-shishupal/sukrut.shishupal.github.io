@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "BMI 6016: Biomedical Data Wrangling"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/BMI:6016
+venue: "University OF Utah, Biomedical Informatics"
+date: 2024-01-01 to 2024-05-05
+location: "Salt Lake City, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
