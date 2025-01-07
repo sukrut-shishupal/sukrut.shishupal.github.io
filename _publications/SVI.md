@@ -3,7 +3,7 @@ title: "Social Vulnerability and Rurality Associated with Lower Telemedicine Use
 collection: publications
 category: manuscripts
 permalink: /publication/SVI
-excerpt: "<img src='/images/Publication_1.jpg' alt='Alt Text'/>  Telemedicine use in the U.S. is influenced more by rurality than social vulnerability, with differing patterns of use across rural and urban counties. [Read more](/publication/SVI)"
+excerpt: "<img src='/images/SVI.jpg' alt='Alt Text'/>  Telemedicine use in the U.S. is influenced more by rurality than social vulnerability, with differing patterns of use across rural and urban counties. [Read more](/publication/SVI)"
 date: 2024-02-16
 venue: "The Lancet"
 paperurl: "https://ssrn.com/abstract=4726267"
