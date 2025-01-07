@@ -3,6 +3,7 @@ title: "Travel Distance Between Participants in US Telemedicine Sessions With Es
 collection: publications
 category: manuscripts
 permalink: /publication/Telemedicine_Emissions
+image: "/images/Publication_1.jpg"
 excerpt: "A large-scale retrospective analysis of US telemedicine sessions shows that telemedicine reduces median travel by 49 miles and saves over 1.4 million metric tons of CO2 annually, hence shrinking health care's carbon footprint."
 date: 2024-05-15
 venue: "Journal of Medical Internet Research"
