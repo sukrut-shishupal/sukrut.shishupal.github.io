@@ -3,13 +3,15 @@ title: "Travel Distance Between Participants in US Telemedicine Sessions With Es
 collection: publications
 category: manuscripts
 permalink: /publication/Telemedicine_Emissions
-excerpt: 'This study aimed to 
-- (1) determine the travel distance between participants in US telemedicine sessions and
-- (2) estimate the net reduction in carbon dioxide (CO2) emissions attributable to telemedicine in the United States, based on national observational data describing the geographical characteristics of telemedicine session participants.'
-date: 2009-10-01
+excerpt: 'A large-scale retrospective analysis of US telemedicine sessions shows that telemedicine reduces median travel by 49 miles and saves over 1.4 million metric tons of CO2 annually, hence shrinking health care's carbon footprint.'
+date: 2024-15-05
 venue: 'Journal of Medical Internet Research'
 paperurl: 'https://www.jmir.org/2024/1/e53437/'
-citation: 'Cummins MR, Shishupal S, Wong B, Wan N, Han J, Johnny JD, Mhatre-Owens A, Gouripeddi R, Ivanova J, Ong T, Soni H, Barrera J, Wilczewski H, Welch BM, Bunnell BE (2024) .&quot; <i> J Med Internet Res</i>. 024;26:e53437.'
+citation: 'Cummins M, Shishupal S, Wong B, Wan N, Han J, Johnny J, Mhatre-Owens A, Gouripeddi R, Ivanova J, Ong T, Soni H, Barrera J, Wilczewski H, Welch B, Bunnell B
+Travel Distance Between Participants in US Telemedicine Sessions With Estimates of Emissions Savings: Observational Study
+J Med Internet Res 2024;26:e53437
+URL: https://www.jmir.org/2024/1/e53437
+DOI: 10.2196/53437'
 ---
 
 Background
@@ -19,9 +21,10 @@ Digital health and telemedicine are potentially important strategies to decrease
 
 Objective
 ======
-This study aimed to 
-- (1) determine the travel distance between participants in US telemedicine sessions and
-- (2) estimate the net reduction in carbon dioxide (CO2) emissions attributable to telemedicine in the United States,
+This study aimed to: 
+- Determine the travel distance between participants in US telemedicine sessions and
+- Estimate the net reduction in carbon dioxide (CO2) emissions attributable to telemedicine in the United States.
+  
 Based on national observational data describing the geographical characteristics of telemedicine session participants.
 
 Methods
