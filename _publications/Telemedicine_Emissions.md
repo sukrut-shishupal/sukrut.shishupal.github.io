@@ -6,9 +6,7 @@ permalink: /publication/Telemedicine_Emissions
 excerpt: "A large-scale retrospective analysis of US telemedicine sessions shows that telemedicine reduces median travel by 49 miles and saves over 1.4 million metric tons of CO2 annually, hence shrinking health care's carbon footprint."
 date: 2024-05-15
 venue: "Journal of Medical Internet Research"
-slidesurl: ""
 paperurl: "https://www.jmir.org/2024/1/e53437/"
-citation: "Cummins M, Shishupal S, Wong B, Wan N, Han J, Johnny J, Mhatre-Owens A, Gouripeddi R, Ivanova J, Ong T, Soni H, Barrera J, Wilczewski H, Welch B, Bunnell B. Travel Distance Between Participants in US Telemedicine Sessions With Estimates of Emissions Savings: Observational Study. J Med Internet Res 2024;26:e53437. URL: https://www.jmir.org/2024/1/e53437. DOI: 10.2196/53437"
 ---
 
 Background
@@ -35,3 +33,12 @@ The median round trip travel distance between patients and providers was 49 (IQR
 Conclusions
 ======
 These estimates of travel distance and telemedicine-associated CO2 emissions costs and savings, based on national data, indicate that telemedicine may be an important strategy in reducing the health care sector’s carbon footprint.
+
+Conclusions
+======
+Cummins M, Shishupal S, Wong B, Wan N, Han J, Johnny J, Mhatre-Owens A, Gouripeddi R, Ivanova J, Ong T, Soni H, Barrera J, Wilczewski H, Welch B, Bunnell B
+Travel Distance Between Participants in US Telemedicine Sessions With Estimates of Emissions Savings: Observational Study
+- J Med Internet Res 2024;26:e53437
+- URL: https://www.jmir.org/2024/1/e53437
+- DOI: 10.2196/53437
+
