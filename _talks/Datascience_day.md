@@ -8,7 +8,7 @@ date: 2023-01-13
 location: "Salt Lake City, Utah"
 ---
 
-[![Poster Preview](/images/DataScienceDat2023.jpg)](/talks/Datascience_day)
+[![Poster Preview](/images/DataScienceDay2023.jpg)](/talks/Datascience_day)
 
 **Abstract:**  
 RECOVER, a large-scale NIH initiative, aims to understand, prevent, and treat Post-Acute Sequelae of SARS-CoV-2 infection (PASC). Leveraging data science techniques and a national EHR repository, the project focuses on identifying PASC subtypes, risk factors, disparities, and healthcare utilization. Year 1 accomplishments include phenotype development, risk factor analysis, and disparity assessments, paving the way for clinical trials and targeted interventions in Year 2.
