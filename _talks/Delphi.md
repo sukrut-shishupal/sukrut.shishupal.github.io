@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Delphi
 venue: "University of Utah, DELPHI Data Science day"
-date: 2024-13-01
+date: 2024-03-13
 location: "Salt Lake City, Utah"
 ---
 
