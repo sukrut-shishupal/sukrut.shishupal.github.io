@@ -14,9 +14,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Experience"
+  - title: "Portfolio"
     url: /portfolio/
-            
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+
   - title: "CV"
     url: /cv/
     
