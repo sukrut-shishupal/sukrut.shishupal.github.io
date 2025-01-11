@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+I am a first-year PhD student in the **Department of Biomedical Informatics** at the **University of Utah**, advised by Dr. [Kathy Sward](https://medicine.utah.edu/faculty/katherine-sward), Dr. [Ramkiran Gouripeddi](https://medicine.utah.edu/faculty/ramkiran-gouripeddi) and Dr. [Mollie Cummins](https://medicine.utah.edu/faculty/mollie-r-cummins). 
 
-My name is **Sukrut Shishupal**, and I am a first-year PhD student in the **Department of Biomedical Informatics** at the **University of Utah**, advised by Dr. [Kathy Sward](https://medicine.utah.edu/faculty/katherine-sward), Dr. [Ramkiran Gouripeddi](https://medicine.utah.edu/faculty/ramkiran-gouripeddi) and Dr. [Mollie Cummins](https://medicine.utah.edu/faculty/mollie-r-cummins). I hold a Master’s degree in **Biomedical Informatics (Data Science Track)** from the same university and a combined **B.Sc. and M.Sc. in Bioinformatics and Biotechnology** from Savitribai Phule Pune University, India. My academic journey reflects a strong commitment to interdisciplinary research, combining my love for biology, technology, and data science.
+I hold a Master’s degree in **Biomedical Informatics (Data Science Track)** from the same university and a combined **B.Sc. and M.Sc. in Bioinformatics and Biotechnology** from Savitribai Phule Pune University, India. 
 
 I am also a part of the [**SMARTER project**](https://www.smarterexposurehealth.org/overview), contributing to research focused on improving healthcare systems and outcomes.
 
 ### Academic and Professional Journey
 
-During my academic career, I have developed skills in data analysis, machine learning, and computational modeling, working on projects that span multiple domains:
+During my academic career, I have developed skills in data analysis, machine learning, and computational modeling, working on projects that span multiple domains!
+My academic journey reflects a strong commitment to interdisciplinary research, combining my love for biology, technology, and data science.
 
 - **M.Sc. Thesis**: Binding affinity prediction of protein-protein complexes using machine learning, integrating Python, R, and graph-based methods.
 - **Research Assistant**: Played a pivotal role in the **PCORnet RECOVER EHR Project**, coordinating with diverse teams to analyze telemedicine data and implement visualization frameworks.
@@ -28,7 +29,9 @@ I have contributed to peer-reviewed publications, including the [**Journal of Me
 
 ### Beyond Academia
 
-In addition to my academic and research pursuits, I am deeply engaged in community-building and leadership activities. I served as a **student representative for two years** in the Department of Biomedical Informatics, where I advocated for graduate student interests and helped foster a collaborative environment. As the **treasurer for the Indian Students Association**, I managed finances and led strategic initiatives to support cultural events and student welfare.
+In addition to my academic and research pursuits, I am deeply engaged in community-building and leadership activities. I served as a **student representative for two years** in the Department of Biomedical Informatics, where I advocated for graduate student interests and helped foster a collaborative environment. 
+
+As the [**treasurer for the Indian Students Association**](https://indianstudentsatutah.org/team.html), I managed finances and led strategic initiatives to support cultural events and student welfare.
 
 My passion for outreach includes volunteering with educational and environmental initiatives, from teaching microbiology techniques to middle school students to organizing trekking activities. Notably, I received the **Best Instructor Award** for mentoring students during a week-long biological science workshop.
 
