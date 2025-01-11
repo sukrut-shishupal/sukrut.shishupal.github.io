@@ -15,4 +15,4 @@ The research involved leveraging **graph theory** to model protein-protein inter
 
 This project enhanced my skills in computational biology, data analysis, and machine learning.
 
-[You can find my thesis work](/files/Master_Thesis.pdf)
+[[View my thesis]](/files/Master_Thesis.pdf)
