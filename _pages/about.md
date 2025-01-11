@@ -26,8 +26,6 @@ During my academic career, I have developed skills in data analysis, machine lea
 
 I have contributed to peer-reviewed publications, including the [**Journal of Medical Internet Research**](https://sukrut-shishupal.github.io/publications/), and presented at [conferences](https://sukrut-shishupal.github.io/talks/) such as **DELPHI Symposium**. My research on telemedicine and emissions savings has been recognized for its innovative use of data science to address healthcare challenges.
 
-Here’s the rewritten "Beyond Academia" section in markdown format:
-
 ### Beyond Academia
 
 In addition to my academic and research pursuits, I am deeply engaged in community-building and leadership activities. I served as a **student representative for two years** in the Department of Biomedical Informatics, where I advocated for graduate student interests and helped foster a collaborative environment. As the **treasurer for the Indian Students Association**, I managed finances and led strategic initiatives to support cultural events and student welfare.
