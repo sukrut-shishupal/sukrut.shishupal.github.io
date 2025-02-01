@@ -29,5 +29,4 @@ Citation
 ======
 Cummins, Mollie R. and Wong, Bob and Wan, Neng and Han, Jiuying and Shishupal, Sukrut D. and Gouripeddi, Ramkiran and Ivanova, Julia and Franklin, Asiyah and Ong, Triton and Johnny, Jace and Welch, Brandon M. and Bunnell, Brian E.
 **Social Vulnerability and Rurality Associated with Lower Telemedicine Use in U.S. Counties**  
-*J Med Internet Res* 2024;26:e53437  
 URL: [https://ssrn.com/abstract=4726267](https://ssrn.com/abstract=4726267)  
